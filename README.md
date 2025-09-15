@@ -68,6 +68,10 @@ List of devices attached
 <device_id>    device
 <PHONE_IP_ADDRESS>:5555    device
 ```
+Run:
+```
+flutter run -d M2006C3LI
+```
 
 #### Step 4: Disconnect
 ```bash
