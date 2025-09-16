@@ -23,7 +23,7 @@ Before starting, ensure you have:
 ### 1. Enable Developer Options
 
 1. Go to `Settings` → `About Phone`
-2. Tap `Build Number` 7 times until you see "You are now a developer!"
+2. Tap `MIUI version` 7 times until you see "You are now a developer!"
 3. Navigate to `Settings` → `System` → `Developer Options`
 4. Toggle ON `Developer Options`
 
